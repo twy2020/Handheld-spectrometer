@@ -1,5 +1,5 @@
 # Smart Spectrometer System - Setup and Usage Guide
-[README-中文](https://gitlab.igem.org/2025/software-tools/yau-china/-/blob/main/Handheld%20spectrometer/README-CN.md?ref_type=heads)
+[README-中文]([https://gitlab.igem.org/2025/software-tools/yau-china/-/blob/main/Handheld%20spectrometer/README-CN.md?ref_type=heads](https://github.com/twy2020/Handheld-spectrometer/blob/main/README-CN.md))
 ## 1. Hardware Components List
 
 Please prepare the following modules required for setup according to this list:
@@ -127,5 +127,6 @@ The device can directly collect and display real-time spectral data on the OLED 
 To use more features, please connect to the PC software via WiFi. Please refer to the software manual for detailed operations.
 
 ---
+
 
 **Note**: If you have any questions during the setup and usage process, please refer to the project documentation or contact the author via email: tenwonyun@gmail.com
