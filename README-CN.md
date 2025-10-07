@@ -1,5 +1,5 @@
 # 智能光谱仪系统 - 搭建与使用指南
-[README-EN](https://gitlab.igem.org/2025/software-tools/yau-china/-/blob/main/Handheld%20spectrometer/README.md?ref_type=heads)
+[README-EN](https://github.com/twy2020/Handheld-spectrometer/blob/main/README.md)
 ## 1. 硬件组件清单
 
 请按以下清单准备搭建所需的各个模块：
@@ -129,5 +129,6 @@ python Spectrometer_v2_PC.py
 如需使用更多功能，请通过WiFi连接上位机程序。详细操作请参考软件使用手册。
 
 ---
+
 
 **注意**：搭建与使用过程中如有疑问，请参考项目文档或联系作者邮箱：tenwonyun@gmail.com
